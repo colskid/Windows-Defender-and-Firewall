@@ -58,7 +58,5 @@ Learn how to configure Windows Firewall rules:
 
 6. Follow the prompts to specify the rule's settings, such as allowing or blocking specific programs or ports.
 
-## Contributing
-
 ## Contributing 
 Contributions to this project are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request.
